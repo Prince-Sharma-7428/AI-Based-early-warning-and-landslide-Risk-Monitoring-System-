@@ -943,8 +943,8 @@ All capabilities are labeled as one of: **Implemented**, **Prototype**, **Planne
 > Team member details to be added by the project team.
 
 | Name | Role |
-|---|---|
-| — | — |
+|Prince|developer|
+
 
 ---
 
